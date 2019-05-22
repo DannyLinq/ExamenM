@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Conversor de Unidades</string>
+    <string name="Temperatura">Unidades de Temperatura</string>
+    <string name="btnTemperatura1">Celsius a Fahrenheit</string>
+    <string name="btnTemperatura2">Fahrenheit a Celsius</string>
+    <string name="btnTemperatura3">Celsius a Kelvin</string>
+    <string name="btnTemperatura4">Kelvin a Celsius</string>
+    <string name="Unidad">Unidad:</string>
+    <string name="resultado">Resultado:</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Atras">Atras</string>
+    <string name="Area">Unidades de Área</string>
+    <string name="btnArea1">Hectárea a Metros2</string>
+    <string name="btnArea2">Metros2 a Hectárea</string>
+    <string name="btnArea3">Metros2 a Kilómetros2</string>
+    <string name="btnArea4">Kilómetros2 a Metros2</string>
+    <string name="Distancia">Unidades de Distancia</string>
+    <string name="btnDistancia1">Metros a Centímetros</string>
+    <string name="btnDistancia2">Centímetros a metros</string>
+    <string name="btnDistancia3">Centímetros a Pulgadas</string>
+    <string name="btnDistancia4">Pulgadas a Centímetros</string>
+    <string name="cuadrado">2</string>
+</resources>

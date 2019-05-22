@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Units Converter</string>
+    <string name="Temperatura">Temperature Units</string>
+    <string name="btnTemperatura1">Celsius to Fahrenheit</string>
+    <string name="btnTemperatura2">Fahrenheit to Celsius</string>
+    <string name="btnTemperatura3">Celsius to Kelvin</string>
+    <string name="btnTemperatura4">Kelvin to Celsius</string>
+    <string name="Unidad">Unit:</string>
+    <string name="resultado">Result:</string>
+    <string name="Calcular">Calculate</string>
+    <string name="Atras">Back</string>
+    <string name="Area">Area Units</string>
+    <string name="btnArea1">Hectare to Meters2</string>
+    <string name="btnArea2">Meters2 to Hectare</string>
+    <string name="btnArea3">Meters2 to Kilometers2</string>
+    <string name="btnArea4">Kilometers2 a Meters2</string>
+    <string name="cuadrado">2</string>
+</resources>
